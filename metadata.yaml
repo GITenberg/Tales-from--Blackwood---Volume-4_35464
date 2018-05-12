@@ -1,0 +1,31 @@
+_repo: Tales-from--Blackwood---Volume-4_35464
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2011-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+tableOfContents: 'How I stood for the Dreepdaily Burghs / Professor Aytoun -- First
+  and last / William Mudford -- The duke''s dilemma: a chronicle of Niesenstein --
+  The old gentleman''s teetotum -- "Woe to us when we lose the watery wall!" -- My
+  college friends: Charles Russell, the gentleman-commoner -- The magic lay of the
+  one-horse chay / John Hughes.'
+title: Tales from "Blackwood," Volume 4
+url: http://www.gutenberg.org/ebooks/35464
